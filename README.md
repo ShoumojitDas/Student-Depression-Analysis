@@ -4,4 +4,4 @@ Analysis on student depression using Python. Implemented with libraries like pan
 Developed with ❤️ by **Shoumojit**  
 © 2025 Memo | All rights reserved.  
 Unauthorized copying or reproduction of this project, via any medium, is strictly prohibited.  
-GitHub Profile: [Memo](https://github.com/ShoumojitDas)
+GitHub Profile: [Shoumojit](https://github.com/ShoumojitDas)
